@@ -49,26 +49,6 @@ Visit `http://localhost:5173` in your browser.
 ```bash
 npm run build
 npm run preview
-```
+```-
 
----
-
-## 🏛️ Fest Information Grounding
-- **Official Portal**: [techfest.org](https://techfest.org)
-- **Venue**: IIT Bombay, Powai, Mumbai - 400076, Maharashtra, India
-- **Prize Pool**: ₹40,00,000+ direct cash rewards + ₹1.2 Cr incubation grants
-- **Footfall**: 175,000+ attendees across 2,500+ universities worldwide
-- **Patronage**: UNESCO, UNICEF, and Government of India
-
----
-
-## 📹 Submission Links Checklist
-When submitting your project:
-1. **GitHub Link**: Push this repository to your GitHub profile and paste the public repository URL.
-2. **Short Demo Recording**: Record a 1-2 minute walkthrough (using OBS or Loom) demonstrating:
-   - Dynamic Hero & Live Countdown Timer
-   - Arena tab switches (Robowars, Tech Expo, etc.)
-   - Real-time search & filter in Competitions
-   - Interactive Terminal query execution (`help`, `prizes`, `robowars`)
-   - Pass generation modal with confetti
-3. **Google Drive Link**: Upload the video file or Loom recording to Google Drive and ensure **"Anyone with the link can view"** is enabled.
+th the link can view"** is enabled.
