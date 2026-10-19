@@ -32,7 +32,7 @@ This is an innovative, high-performance, and futuristic landing page crafted spe
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/dewanshlohakare1234/techfest-landing
 cd techfest-landing
 
 # Install dependencies
